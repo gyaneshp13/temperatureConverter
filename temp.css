@@ -1,0 +1,31 @@
+body{
+    background-color: cadetblue;
+    background-image: url(https://images.wallpaperscraft.com/image/sun_heat_fire_temperature_orange_2758_1280x1024.jpg);
+}
+
+h1{
+    color: darkblue;
+    text-shadow: darkcyan;
+    text-decoration: underline;
+}
+
+label, p{
+    font-style: oblique;
+    font-weight: bold;
+}
+
+#fah{
+    background-color: brown;
+    color:navy;
+}
+
+#cel{
+    background-color: olive;
+    color: ;
+}
+
+input{
+    border-radius: 10px;
+    border: none;
+    /* margin: 0px; */
+}
